@@ -1,3 +1,3 @@
 # test_rep2
-test_rep2
-new string1
+#test_rep2
+Это репозиторий для хранения домашних работ по курсу автоматизации тестирования на Степике, https://stepik.org/course/575/syllabus.
